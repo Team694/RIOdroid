@@ -1,8 +1,8 @@
-#RIOdroid by Spectrum3847
-####What is RIOdroid?
+# RIOdroid by Spectrum3847
+#### What is RIOdroid?
 RIOdroid is a package that allows an NI RoboRIO to communicate with an Android Device that is connected to it's USB port.
 
-####Why Android?
+#### Why Android?
 
 Android phones are cheap and powerful. Lots of code already exists for the platform. Students already know Java.
 
