@@ -34,7 +34,7 @@ Android Accessory Protocol over USB. works on any android device running 3.1 or 
 	- Instructions for Windows
 	- Install WinSCP from (https://winscp.net/eng/docs/guide_install)
 	- Plug in USB A-B cable to roboRIO USB port and to the computer
-	- open WinSCP and connect to either roborio-XXXX.local or 172.22.11.2 (XXXX is your team number)
+	- open WinSCP and connect to either roborio-XXXX-frc.local or 172.22.11.2 (XXXX is your team number)
 	- login as Admin and leave the password blank and press enter
 	- Click accept or yes to any pop windows
 	- Using the left pane of the window navigate to the folder you extracted the RIOdroid.zip into.
@@ -42,7 +42,7 @@ Android Accessory Protocol over USB. works on any android device running 3.1 or 
 
 3. SSH into the RoboRIO
 	- Install Putty from (www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
-	- open putty and connect to either roborio-XXXX.local or 172.22.11.2 (XXXX is your team number)
+	- open putty and connect to either roborio-XXXX-frc.local or 172.22.11.2 (XXXX is your team number)
 	- login as Admin and leave the password blank and press enter
 	- Click accept or yes to any pop windows
 	- Type the following two commands and press enter after each
